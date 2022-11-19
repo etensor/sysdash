@@ -1,0 +1,25 @@
+{
+  "name": "sysmon-dash",
+  "version": "1.0.0",
+  "description": "a tremor system monitoring dashboard",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "keywords": [
+    "systeminformation",
+    "firebase",
+    "tremor",
+    "react"
+  ],
+  "author": "etensor",
+  "license": "MIT",
+  "repository": {
+      "type": "git",
+      "url": "https://github.com/etensor/sysdash.git"
+  },
+  "dependencies": {
+    "firebase": "^9.14.0",
+    "systeminformation": "^5.14.0"
+  }
+}

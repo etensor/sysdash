@@ -1,0 +1,35 @@
+{
+  manufacturer: 'LENOVO',
+  model: '80NV',
+  version: 'Lenovo ideapad Y700-15ISK',
+  virtual: false,
+  bios: { vendor: 'LENOVO', version: 'CDCN54WW', releaseDate: '2017-13-06' }
+}
+{
+  manufacturer: 'LENOVO',
+  model: '80NV',
+  version: 'Lenovo ideapad Y700-15ISK',
+  virtual: false,
+  bios: { vendor: 'LENOVO', version: 'CDCN54WW', releaseDate: '2017-13-06' }
+}
+{
+  manufucturer: 'Intel',
+  brand: 'Core™ i7-6700HQ',
+  model: '94',
+  speed: 2.6,
+  cores: 8,
+  physicalcores: 4,
+  processors: 1,
+  virtualization: true,
+  cpu_speed: {
+    min: 0.8,
+    max: 2.6,
+    avg: 2.38,
+    cores: [
+      2.6, 2.6, 0.8,
+      2.6, 2.6, 2.6,
+      2.6, 2.6
+    ]
+  },
+  cpu_temp: { main: 33, cores: [ 33, 35, 31, 31 ], max: 35 }
+}
